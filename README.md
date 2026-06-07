@@ -1,10 +1,10 @@
-# Hi, I'm Aryan 👋
+# Hi, I'm Aryan 
 
-🎯 Aspiring Data Scientist | Machine Learning Enthusiast
+Aspiring Data Scientist | Machine Learning Enthusiast
 
 ---
 
-## 🚀 Skills
+## Skills
 
 ### Programming
 
@@ -24,19 +24,19 @@
 
 ---
 
-## 📊 Projects
+## Projects
 
-### 🏠 House Price Prediction
+### House Price Prediction
 
 * Built ML model to predict house prices
 * Performed EDA and feature engineering
 * Used regression models with evaluation metrics
 
-🚧 More advanced projects coming soon...
+ More advanced projects coming soon...
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 * Generative AI (GenAI)
 * Retrieval-Augmented Generation (RAG)
@@ -45,12 +45,12 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 * LinkedIn: [https://www.linkedin.com/in/aryansinghbais8/]
 
 ---
 
-## ⚡ Goal
+## Goal
 
 To become a Data Scientist and build impactful AI solutions.
