@@ -99,7 +99,7 @@ Passive AI life-logging app with real-time object detection and AI summarization
 ## Connect With Me
 - **LinkedIn:** [linkedin.com/in/aryansinghbais8](https://www.linkedin.com/in/aryansinghbais8/)
 - **GitHub:** [github.com/Aryansingh-B](https://github.com/Aryansingh-B)
-- **Kaggle:** [kaggle.com/aryansinghbais]([(https://www.kaggle.com/aryansinghbais)])
+- **Kaggle:** [kaggle.com/aryansinghbais]((https://www.kaggle.com/aryansinghbais))
 
 ---
 
