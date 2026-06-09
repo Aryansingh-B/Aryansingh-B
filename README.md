@@ -128,13 +128,13 @@ Aspiring Data Scientist with a passion for building intelligent solutions. Curre
 
 ### 🏠 House Price Prediction
 ML model predicting house prices with multiple algorithms and interactive dashboard.
-- **Tech:** Python, Scikit-learn, Streamlit
+- **Tech:** Python, Scikit-learn, Streamlit, pandas
 - **Models:** Linear, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting
 - [View on GitHub →](https://github.com/Aryansingh-B/house-price-prediction)
 
 ### 🏏 IPL EDA Analysis
 Exploratory data analysis of Indian Premier League cricket data with Power BI dashboards.
-- **Tech:** Python, Pandas, Power BI, SQL
+- **Tech:** Python, Pandas, seaborn, matplotlib, jupyter
 - [View on GitHub →](https://github.com/Aryansingh-B/ipl-eda-analysis)
 
 ### 🎓 Student Performance Predictor
@@ -144,7 +144,7 @@ Predicts student academic performance using machine learning.
 
 ### 📉 Customer Churn Prediction
 Production-ready churn prediction with business insights.
-- **Tech:** Python, XGBoost, Streamlit
+- **Tech:** Python, XGBoost, Streamlit, pandas, Scikit-learn
 - [View on GitHub →](https://github.com/Aryansingh-B/customer-churn-prediction)
 
 ### 🛒 E-commerce Sales Analysis
@@ -154,7 +154,7 @@ Interactive dashboard analyzing sales trends and customer behavior.
 
 ### 🎬 Netflix Insights
 Content performance and viewer behavior analysis.
-- **Tech:** Python, MySQL, Power BI
+- **Tech:** Python, pandas, matplotlib, seaborn, numpy, jupyter
 - [View on GitHub →](https://github.com/Aryansingh-B/netflix-insights)
 
 ### 🤖 AI PDF Chatbot (RAG Pipeline)
@@ -210,10 +210,3 @@ To become a Data Scientist building impactful AI solutions that drive real busin
 Made with ❤️ by Aryan Singh Bais)
 
 ---
-
-## Goal
-To become a Data Scientist building impactful AI solutions that drive real business value.
-
----
-
-Made with ❤️ by Aryan Singh Bais
