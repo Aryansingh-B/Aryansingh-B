@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Singh Bais
+# Hi, I'm Aryansingh Bais
 
 **Data Science Fresher | Machine Learning Enthusiast | AI & GenAI Learner**
 
