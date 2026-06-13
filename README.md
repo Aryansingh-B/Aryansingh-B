@@ -144,7 +144,7 @@ Power BI · Matplotlib · Seaborn · Excel · Tableau
 - **LinkedIn:** [linkedin.com/in/aryansinghbais8](https://www.linkedin.com/in/aryansinghbais8/)
 - **GitHub:** [github.com/Aryansingh-B](https://github.com/Aryansingh-B)
 - **Kaggle:** [kaggle.com/aryansinghbais](https://www.kaggle.com/aryansinghbais)
-- **Email:** [Contact me for opportunities](mailto:aryan@example.com)
+- **Email:** [Contact me for opportunities](mailto:baisaryansingh@gmail.com)
 
 ---
 
