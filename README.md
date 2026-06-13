@@ -28,7 +28,7 @@
 
 ---
 
-## 📝 About Me
+## About Me
 
 Aspiring Data Scientist with a passion for building intelligent solutions. Currently learning Generative AI, RAG, and LangChain. I love turning data into actionable insights and deploying scalable ML solutions.
 
@@ -57,66 +57,53 @@ Aspiring Data Scientist with a passion for building intelligent solutions. Curre
 
 ### 1. Student Performance Predictor
 Predicts student academic performance using machine learning with interactive insights.
-- **Tech:** Python, Scikit-learn, Flask, MySQL
+- **Tech:** Python, Scikit-learn, Numpy, Pandas, FastAPI, Streamlit, Uvicorn, Pydantic, Docker
 - **GitHub:** [View Repository →](https://github.com/Aryansingh-B/student-performance-predictor)
-- **Demo:** [Coming Soon](#)
+- **Demo:** [Coming Soon](https://student-performance-predictor-hciqulnwu7e7n5fjfsaz9b.streamlit.app/)
 
 ### 2. AI Resume Screener
 Intelligent resume screening and ranking using GenAI and NLP techniques.
-- **Tech:** Python, LangChain, Gemini API, FastAPI
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B)
-- **Demo:** [Coming Soon](#)
+- **Tech:** Python, Gemini API, FastAPI, Pydantic v2, PyMuPDF, Uvicorn, Streamlit, Docker
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/AI-Resume-Screener)
+- **Demo:** [Coming Soon](https://ai-resume-screener-pkfk2an7hcpyiqkvujuefn.streamlit.app/)
 
 ### 3. Retail Sales Dashboard
 Interactive Power BI dashboard analyzing retail sales trends, customer insights, and KPIs.
-- **Tech:** Power BI, SQL, Excel, Python
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B)
-- **Demo:** [Coming Soon](#)
+- **Tech:** Python, Pandas, Power BI, My SQL
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/Retail-Sales-Dashboard)
 
 ### 4. IPL EDA Analysis
 Exploratory data analysis of Indian Premier League cricket data with interactive visualizations.
-- **Tech:** Python, Pandas, Matplotlib, Seaborn, Jupyter
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/ipl-eda-analysis)
-- **Demo:** [View Analysis →](https://github.com/Aryansingh-B/ipl-eda-analysis)
+- **Tech:** Python, Pandas, Matplotlib, Seaborn, Numpy, Jupyter Notebook
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/IPL-EDA-Analysis)
 
 ### 5. Customer Churn Prediction
 Production-ready churn prediction model with business storytelling and actionable insights.
-- **Tech:** Python, XGBoost, Scikit-learn, Streamlit, Pandas
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/customer-churn-prediction)
-- **Demo:** [Coming Soon](#)
+- **Tech:** Python, XGBoost, Scikit-learn, Streamlit, Pandas, Plotly, Numpy
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/Customer-churn-prediction2)
 
 ### 6. House Price Prediction
 ML model predicting house prices with multiple algorithms and interactive what-if analysis.
-- **Tech:** Python, Scikit-learn, Streamlit, Pandas
+- **Tech:** Python, Scikit-learn, Streamlit, Pandas, Numpy, Plotly
 - **Models:** Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/house-price-prediction)
-- **Demo:** [Coming Soon](#)
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/HOUSE-PRICE-PREDICTION)
 
 ### 7. E-commerce Sales Analysis
 Interactive dashboard analyzing sales trends, customer behavior, and revenue patterns.
-- **Tech:** Python, Streamlit, SQL, MySQL, Pandas
+- **Tech:** Python(Faker), Streamlit, SQL, MySQL, Pandas, Plotly, SQLAlchemy
 - **GitHub:** [View Repository →](https://github.com/Aryansingh-B/ecommerce-sales-analysis)
-- **Demo:** [Coming Soon](#)
 
 ### 8. AI PDF Chatbot (RAG Pipeline)
 Chat with PDF documents using advanced retrieval-augmented generation pipeline.
 - **Tech:** LangChain, FAISS, Gemini API, FastAPI, React
 - **Features:** Document parsing, semantic search, context-aware responses
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/ai-pdf-chatbot)
-- **Demo:** [Coming Soon](#)
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/AI-PDF-ChatBot)
 
-### 9. Netflix Insights
-Comprehensive analysis of Netflix content performance and viewer behavior patterns.
-- **Tech:** Python, Pandas, Matplotlib, Seaborn, NumPy, Jupyter
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/netflix-insights)
-- **Demo:** [View Analysis →](https://github.com/Aryansingh-B/netflix-insights)
-
-### 10. LifeLens - AI Life Logger (HackFest 2026)
+### 9.  LifeLens - AI Life Logger (HackFest 2026)
 Passive AI life-logging application with real-time object detection and intelligent AI summarization.
-- **Tech:** React, TensorFlow.js, Gemini API, FastAPI, Deep Learning
+- **Tech:** React, TensorFlow.js, Gemini API, SQLite, FastAPI, Deep Learning
 - **Features:** Continuous screen monitoring, object detection, AI-powered insights
-- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/lifelens)
-- **Demo:** [Coming Soon](#)
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/lifelenc-computer-vision-and-llm-based-system-for-real-time-object-tracking-and-querying)
 
 ---
 
