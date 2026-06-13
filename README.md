@@ -1,113 +1,174 @@
-# Hi, I'm Aryansingh Bais
-
+# Aryansingh Bais
 **Data Science Fresher | Machine Learning Enthusiast | AI & GenAI Learner**
 
 ---
 
-## About Me
-Aspiring Data Scientist with a passion for building intelligent solutions. Currently learning Generative AI, RAG, and LangChain. I love turning data into actionable insights.
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A2?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF69B4?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-10A37F?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## Skills
+## 📝 About Me
 
-**Programming:** Python, SQL, JavaScript
-
-**Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
-
-**Machine Learning:** Regression, Classification, Clustering, XGBoost, Model Evaluation
-
-**Generative AI:** LangChain, RAG, FAISS, Gemini API, FastAPI
-
-**Web & Visualization:** Streamlit, Flask, Power BI, Matplotlib, Seaborn, Excel
-
-**Deployment:** Docker, GitHub
-
----
-
-## Projects
-
-### 🏠 House Price Prediction
-ML model predicting house prices with multiple algorithms and interactive dashboard.
-- **Tech:** Python, Scikit-learn, Streamlit, pandas
-- **Models:** Linear, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting
-- [View on GitHub →](https://github.com/Aryansingh-B/house-price-prediction)
-
-### 🏏 IPL EDA Analysis
-Exploratory data analysis of Indian Premier League cricket data with Power BI dashboards.
-- **Tech:** Python, Pandas, seaborn, matplotlib, jupyter
-- [View on GitHub →](https://github.com/Aryansingh-B/ipl-eda-analysis)
-
-### 🎓 Student Performance Predictor
-Predicts student academic performance using machine learning.
-- **Tech:** Python, Scikit-learn, Flask, MySQL
-- [View on GitHub →](https://github.com/Aryansingh-B/student-performance-predictor)
-
-### 📉 Customer Churn Prediction
-Production-ready churn prediction with business insights.
-- **Tech:** Python, XGBoost, Streamlit, pandas, Scikit-learn
-- [View on GitHub →](https://github.com/Aryansingh-B/customer-churn-prediction)
-
-### 🛒 E-commerce Sales Analysis
-Interactive dashboard analyzing sales trends and customer behavior.
-- **Tech:** Python, Streamlit, MySQL, SQL
-- [View on GitHub →](https://github.com/Aryansingh-B/ecommerce-sales-analysis)
-
-### 🎬 Netflix Insights
-Content performance and viewer behavior analysis.
-- **Tech:** Python, pandas, matplotlib, seaborn, numpy, jupyter
-- [View on GitHub →](https://github.com/Aryansingh-B/netflix-insights)
-
-### 🤖 AI PDF Chatbot (RAG Pipeline)
-Chat with PDF documents using retrieval-augmented generation.
-- **Tech:** LangChain, FAISS, Gemini API, FastAPI, React
-- [View on GitHub →](https://github.com/Aryansingh-B/ai-pdf-chatbot)
-
-### 📸 LifeLens - AI Life Logger (HackFest 2026)
-Passive AI life-logging app with real-time object detection and AI summarization.
-- **Tech:** React, TensorFlow.js, Gemini API, FastAPI
-- [View on GitHub →](https://github.com/Aryansingh-B/lifelens)
-
----
-
-## Currently Learning
-- Generative AI (GenAI)
-- Retrieval-Augmented Generation (RAG)
-- LangChain & Advanced Python
-- Agentic AI Systems
+Aspiring Data Scientist with a passion for building intelligent solutions. Currently learning Generative AI, RAG, and LangChain. I love turning data into actionable insights and deploying scalable ML solutions.
 
 ---
 
 ## Certifications
 
-**Professional & Academic:**
-- Machine Learning Specialist - Simplilearn
-- BCA Degree - Bachelor of Computer Applications
-- Data Science with GenAI & Agentic AI - Naresh IT Technologies (In Progress)
+### Kaggle Courses
+- ![Python](https://img.shields.io/badge/-Python-passing?style=flat&color=white) Python Programming
+- ![Pandas](https://img.shields.io/badge/-Pandas-passing?style=flat&color=white) Pandas Fundamentals
+- ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-passing?style=flat&color=white) Data Cleaning
+- ![SQL](https://img.shields.io/badge/-SQL-passing?style=flat&color=white) SQL for Data Analysis
+- ![Machine Learning](https://img.shields.io/badge/-ML-passing?style=flat&color=white) Machine Learning Basics
+- ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-passing?style=flat&color=white) Feature Engineering
+- ![Data Visualization](https://img.shields.io/badge/-Visualization-passing?style=flat&color=white) Data Visualization
 
-**Kaggle Certificates:**
-- Python Programming
-- Pandas Fundamentals
-- Data Cleaning
-- SQL for Data Analysis
-- Machine Learning Basics
-- Feature Engineering
-- Data Visualization
+### Professional & Academic
+- **Machine Learning Specialist** - Simplilearn
+- **Introduction to Data Analytics** - Simplilearn
+- **BCA Degree** - Bachelor of Computer Applications
+- **Data Science with GenAI & Agentic AI** - Naresh IT Technologies (In Progress)
+
+---
+
+## Projects
+
+### 1. Student Performance Predictor
+Predicts student academic performance using machine learning with interactive insights.
+- **Tech:** Python, Scikit-learn, Flask, MySQL
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/student-performance-predictor)
+- **Demo:** [Coming Soon](#)
+
+### 2. AI Resume Screener
+Intelligent resume screening and ranking using GenAI and NLP techniques.
+- **Tech:** Python, LangChain, Gemini API, FastAPI
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B)
+- **Demo:** [Coming Soon](#)
+
+### 3. Retail Sales Dashboard
+Interactive Power BI dashboard analyzing retail sales trends, customer insights, and KPIs.
+- **Tech:** Power BI, SQL, Excel, Python
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B)
+- **Demo:** [Coming Soon](#)
+
+### 4. IPL EDA Analysis
+Exploratory data analysis of Indian Premier League cricket data with interactive visualizations.
+- **Tech:** Python, Pandas, Matplotlib, Seaborn, Jupyter
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/ipl-eda-analysis)
+- **Demo:** [View Analysis →](https://github.com/Aryansingh-B/ipl-eda-analysis)
+
+### 5. Customer Churn Prediction
+Production-ready churn prediction model with business storytelling and actionable insights.
+- **Tech:** Python, XGBoost, Scikit-learn, Streamlit, Pandas
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/customer-churn-prediction)
+- **Demo:** [Coming Soon](#)
+
+### 6. House Price Prediction
+ML model predicting house prices with multiple algorithms and interactive what-if analysis.
+- **Tech:** Python, Scikit-learn, Streamlit, Pandas
+- **Models:** Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/house-price-prediction)
+- **Demo:** [Coming Soon](#)
+
+### 7. E-commerce Sales Analysis
+Interactive dashboard analyzing sales trends, customer behavior, and revenue patterns.
+- **Tech:** Python, Streamlit, SQL, MySQL, Pandas
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/ecommerce-sales-analysis)
+- **Demo:** [Coming Soon](#)
+
+### 8. AI PDF Chatbot (RAG Pipeline)
+Chat with PDF documents using advanced retrieval-augmented generation pipeline.
+- **Tech:** LangChain, FAISS, Gemini API, FastAPI, React
+- **Features:** Document parsing, semantic search, context-aware responses
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/ai-pdf-chatbot)
+- **Demo:** [Coming Soon](#)
+
+### 9. Netflix Insights
+Comprehensive analysis of Netflix content performance and viewer behavior patterns.
+- **Tech:** Python, Pandas, Matplotlib, Seaborn, NumPy, Jupyter
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/netflix-insights)
+- **Demo:** [View Analysis →](https://github.com/Aryansingh-B/netflix-insights)
+
+### 10. LifeLens - AI Life Logger (HackFest 2026)
+Passive AI life-logging application with real-time object detection and intelligent AI summarization.
+- **Tech:** React, TensorFlow.js, Gemini API, FastAPI, Deep Learning
+- **Features:** Continuous screen monitoring, object detection, AI-powered insights
+- **GitHub:** [View Repository →](https://github.com/Aryansingh-B/lifelens)
+- **Demo:** [Coming Soon](#)
+
+---
+
+## Currently Learning
+
+- Generative AI (GenAI) & Prompt Engineering
+- Retrieval-Augmented Generation (RAG) Architectures
+- Agentic AI Systems & Multi-Agent Frameworks
+- Advanced LangChain & LLM Integration
+- Production ML Deployment & MLOps
+
+---
+
+## Skills Breakdown
+
+**Programming & Databases:**
+Python · SQL · JavaScript
+
+**Data Science & Analysis:**
+Pandas · NumPy · Scikit-learn · TensorFlow · Data Cleaning · EDA
+
+**Machine Learning:**
+Regression · Classification · Clustering · XGBoost · Model Evaluation · Feature Engineering
+
+**Generative AI & LLMs:**
+LangChain · RAG Pipelines · FAISS · Gemini API · Prompt Engineering
+
+**Web & Deployment:**
+FastAPI · Flask · Streamlit · Docker · GitHub
+
+**Data Visualization & BI:**
+Power BI · Matplotlib · Seaborn · Excel · Tableau
 
 ---
 
 ## Connect With Me
+
 - **LinkedIn:** [linkedin.com/in/aryansinghbais8](https://www.linkedin.com/in/aryansinghbais8/)
 - **GitHub:** [github.com/Aryansingh-B](https://github.com/Aryansingh-B)
 - **Kaggle:** [kaggle.com/aryansinghbais](https://www.kaggle.com/aryansinghbais)
+- **Email:** [Contact me for opportunities](mailto:aryan@example.com)
 
 ---
 
-## Goal
-To become a Data Scientist building impactful AI solutions that drive real business value.
+## Career Goal
+
+To become a Data Scientist/ML Engineer building impactful AI solutions that drive real business value and solve complex problems at scale.
 
 ---
 
-Made with ❤️ by Aryan Singh Bais)
+<div align="center">
 
----
+**Made by Aryan Singh Bais**
+
+</div>
