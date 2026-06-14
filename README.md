@@ -39,7 +39,6 @@ Aspiring Data Scientist with a passion for building intelligent solutions. Curre
 ### Kaggle Courses
 - ![Python](https://img.shields.io/badge/-Python-passing?style=flat&color=white) Python Programming
 - ![Pandas](https://img.shields.io/badge/-Pandas-passing?style=flat&color=white) Pandas Fundamentals
-- ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-passing?style=flat&color=white) Data Cleaning
 - ![SQL](https://img.shields.io/badge/-SQL-passing?style=flat&color=white) SQL for Data Analysis
 - ![Machine Learning](https://img.shields.io/badge/-ML-passing?style=flat&color=white) Machine Learning Basics
 - ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-passing?style=flat&color=white) Feature Engineering
@@ -48,6 +47,7 @@ Aspiring Data Scientist with a passion for building intelligent solutions. Curre
 ### Professional & Academic
 - **Machine Learning Specialist** - Simplilearn
 - **Introduction to Data Analytics** - Simplilearn
+- **Power BI** - Simplilearn
 - **BCA Degree** - Bachelor of Computer Applications
 - **Data Science with GenAI & Agentic AI** - Naresh IT Technologies (In Progress)
 
@@ -69,7 +69,7 @@ Intelligent resume screening and ranking using GenAI and NLP techniques.
 
 ### 3. Retail Sales Dashboard
 Interactive Power BI dashboard analyzing retail sales trends, customer insights, and KPIs.
-- **Tech:** Python, Pandas, Power BI, My SQL
+- **Tech:** Python, Pandas, Power BI, MySQL
 - **GitHub:** [View Repository →](https://github.com/Aryansingh-B/Retail-Sales-Dashboard)
 
 ### 4. IPL EDA Analysis
