@@ -59,13 +59,13 @@ Aspiring Data Scientist with a passion for building intelligent solutions. Curre
 Predicts student academic performance using machine learning with interactive insights.
 - **Tech:** Python, Scikit-learn, Numpy, Pandas, FastAPI, Streamlit, Uvicorn, Pydantic, Docker
 - **GitHub:** [View Repository →](https://github.com/Aryansingh-B/student-performance-predictor)
-- **Demo:** [Coming Soon](https://student-performance-predictor-hciqulnwu7e7n5fjfsaz9b.streamlit.app/)
+- **Demo:** [Go Live](https://student-performance-predictor-hciqulnwu7e7n5fjfsaz9b.streamlit.app/)
 
 ### 2. AI Resume Screener
 Intelligent resume screening and ranking using GenAI and NLP techniques.
 - **Tech:** Python, Gemini API, FastAPI, Pydantic v2, PyMuPDF, Uvicorn, Streamlit, Docker
 - **GitHub:** [View Repository →](https://github.com/Aryansingh-B/AI-Resume-Screener)
-- **Demo:** [Coming Soon](https://ai-resume-screener-pkfk2an7hcpyiqkvujuefn.streamlit.app/)
+- **Demo:** [Go Live](https://ai-resume-screener-pkfk2an7hcpyiqkvujuefn.streamlit.app/)
 
 ### 3. Retail Sales Dashboard
 Interactive Power BI dashboard analyzing retail sales trends, customer insights, and KPIs.
@@ -76,6 +76,7 @@ Interactive Power BI dashboard analyzing retail sales trends, customer insights,
 Exploratory data analysis of Indian Premier League cricket data with interactive visualizations.
 - **Tech:** Python, Pandas, Matplotlib, Seaborn, Numpy, Jupyter Notebook
 - **GitHub:** [View Repository →](https://github.com/Aryansingh-B/IPL-EDA-Analysis)
+- **Kaggle:** [Kaggle NoteBook →](https://www.kaggle.com/code/aryansinghbais/notebooke2eda18b01)
 
 ### 5. Customer Churn Prediction
 Production-ready churn prediction model with business storytelling and actionable insights.
